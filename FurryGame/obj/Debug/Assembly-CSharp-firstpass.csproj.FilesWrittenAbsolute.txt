@@ -1,0 +1,13 @@
+/home/solrac/FurryGame/Temp/bin/Debug/UnityEngine.dll
+/home/solrac/FurryGame/Temp/bin/Debug/UnityEditor.dll
+/home/solrac/FurryGame/Temp/bin/Debug/UnityEngine.Networking.dll
+/home/solrac/FurryGame/Temp/bin/Debug/UnityEngine.UI.dll
+/home/solrac/FurryGame/Temp/bin/Debug/Mono.Cecil.dll
+/home/solrac/FurryGame/Temp/bin/Debug/Unity.SerializationLogic.dll
+/home/solrac/FurryGame/Temp/bin/Debug/Unity.DataContract.dll
+/home/solrac/FurryGame/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/home/solrac/FurryGame/Temp/bin/Debug/Unity.UNetWeaver.dll
+/home/solrac/FurryGame/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/home/solrac/FurryGame/Temp/bin/Debug/Unity.CecilTools.dll
+/home/solrac/FurryGame/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/home/solrac/FurryGame/Temp/bin/Debug/Mono.Cecil.Mdb.dll
