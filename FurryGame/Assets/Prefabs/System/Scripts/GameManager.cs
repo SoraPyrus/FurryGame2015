@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+public enum GameState{
 public class GameManager : MonoBehaviour {
 
 
