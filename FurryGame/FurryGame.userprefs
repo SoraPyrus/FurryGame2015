@@ -1,11 +1,6 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Documents\FurryGame\Assets\Prefabs\Enemies\Scripts\Exp01.cs">
-    <Files>
-      <File FileName="..\..\..\Documents\FurryGame\FurryGame.sln" Line="1" Column="1" />
-      <File FileName="..\..\..\Documents\FurryGame\Assets\Prefabs\Enemies\Scripts\Exp01.cs" Line="12" Column="41" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
