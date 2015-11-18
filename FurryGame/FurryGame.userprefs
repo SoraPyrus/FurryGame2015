@@ -1,6 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../SparkleShare/FurryGame2015/FurryGame/Assets/READ ME -- Importing How to.cs">
+    <Files>
+      <File FileName="../../SparkleShare/FurryGame2015/FurryGame/Assets/READ ME -- Importing How to.cs" Line="33" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

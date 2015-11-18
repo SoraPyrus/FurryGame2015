@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public enum GameState{
 	DEFAULT,		//Default, Running
@@ -12,7 +13,6 @@ public enum GameState{
 
 public class GameManager : MonoBehaviour {
 
-
 	// Use this for initialization
 	void Start () {
 
@@ -20,7 +20,9 @@ public class GameManager : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		DontDestroyOnLoad();
+		if(GameState.DEFAULT){
+			DontDestroyOnLoad (GameObject.Find ("Player"));
+		}
 	}
 
 }

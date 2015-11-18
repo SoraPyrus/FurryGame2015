@@ -148,7 +148,7 @@
      <Compile Include="Assets\Prefabs\Player&amp;Items\Scripts\BulletCtrl.cs" />
      <Compile Include="Assets\Prefabs\Player&amp;Items\Scripts\CameraForce.cs" />
      <Compile Include="Assets\Prefabs\Player&amp;Items\Scripts\PlyCtrl.cs" />
-     <Compile Include="Assets\Prefabs\StagePorps\Elevator\BasicUDElevator.cs" />
+     <Compile Include="Assets\Prefabs\Stage Parts\Elevator\BasicUDElevator.cs" />
      <Compile Include="Assets\Prefabs\System\Scripts\GameManager.cs" />
      <Compile Include="Assets\Prefabs\System\Scripts\MsgBox.cs" />
      <Compile Include="Assets\Prefabs\System\Scripts\NPCBasic.cs" />
@@ -247,14 +247,8 @@
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
- <Reference Include="UnityEngine.Analytics">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
