@@ -31,6 +31,7 @@ In Unity, there are 3 ways to Import Packages;
 * Right Click in the Asset Browser and select Import Asset
 * Import Asset Pack > Custom Package (UnityPackage)
 Please Make sure everything goes to their proper place. Keep the project clean.
+* When Importing a Model/Mesh, If it doesn't have a UV Map, be sure *NOT* to export the Material.
 
 ###### The Game's Folder Architecture
 The Game's Assets are organized by Usage Type.
