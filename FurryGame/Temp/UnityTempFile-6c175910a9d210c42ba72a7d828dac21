@@ -180,7 +180,7 @@ Assets/Prefabs/Enemies/Scripts/ShroomShoot.cs
 "Assets/Prefabs/Player&Items/Scripts/BulletCtrl.cs"
 "Assets/Prefabs/Player&Items/Scripts/CameraForce.cs"
 "Assets/Prefabs/Player&Items/Scripts/PlyCtrl.cs"
-Assets/Prefabs/StagePorps/Elevator/BasicUDElevator.cs
+"Assets/Prefabs/Stage Parts/Elevator/BasicUDElevator.cs"
 Assets/Prefabs/System/Scripts/GameManager.cs
 Assets/Prefabs/System/Scripts/MsgBox.cs
 Assets/Prefabs/System/Scripts/NPCBasic.cs
