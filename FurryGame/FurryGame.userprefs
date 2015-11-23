@@ -1,6 +1,18 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../SparkleShare/FurryGame2015/FurryGame/Assets/Prefabs/Player&amp;Items/Scripts/PlyCtrl.cs">
+    <Files>
+      <File FileName="../../SparkleShare/FurryGame2015/FurryGame/Assets/Prefabs/System/Scripts/GameManager.cs" Line="6" Column="25" />
+      <File FileName="../../SparkleShare/FurryGame2015/FurryGame/Assets/Prefabs/Player&amp;Items/Scripts/PlyCtrl.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FurryGame" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
