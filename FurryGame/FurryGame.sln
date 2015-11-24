@@ -5,10 +5,6 @@ Project("{7CBA1C01-9D85-F2A9-E6A9-4280F50A9C72}") = "FurryGame", "Assembly-CShar
 EndProject
 Project("{7CBA1C01-9D85-F2A9-E6A9-4280F50A9C72}") = "FurryGame", "Assembly-CSharp-Editor.csproj", "{59DC527F-0CDB-E1CC-6EE2-4003EAA9E7E4}"
 EndProject
-Project("{7CBA1C01-9D85-F2A9-E6A9-4280F50A9C72}") = "FurryGame", "Assembly-UnityScript.unityproj", "{4202B278-3207-B5AC-4AC7-A9A0A8DC7E03}"
-EndProject
-Project("{7CBA1C01-9D85-F2A9-E6A9-4280F50A9C72}") = "FurryGame", "Assembly-UnityScript-Editor.unityproj", "{AECDFD2D-4585-5DBC-1A02-56E30A5DA39A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,19 +19,11 @@ Global
 		{59DC527F-0CDB-E1CC-6EE2-4003EAA9E7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59DC527F-0CDB-E1CC-6EE2-4003EAA9E7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59DC527F-0CDB-E1CC-6EE2-4003EAA9E7E4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4202B278-3207-B5AC-4AC7-A9A0A8DC7E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4202B278-3207-B5AC-4AC7-A9A0A8DC7E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4202B278-3207-B5AC-4AC7-A9A0A8DC7E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4202B278-3207-B5AC-4AC7-A9A0A8DC7E03}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AECDFD2D-4585-5DBC-1A02-56E30A5DA39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AECDFD2D-4585-5DBC-1A02-56E30A5DA39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AECDFD2D-4585-5DBC-1A02-56E30A5DA39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AECDFD2D-4585-5DBC-1A02-56E30A5DA39A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-							GlobalSection(MonoDevelopProperties) = preSolution
+																																GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0
 		$0.TextStylePolicy = $1
 		$1.inheritsSet = null

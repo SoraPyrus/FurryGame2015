@@ -193,5 +193,11 @@ public class PlyCtrl : MonoBehaviour {
 		//moveDirection.y = 5;
 	}
 
+	void ChangeWeapon(int a2c){
+		if(a2c<1){
+
+		}
+	}
+
 	////////////END OF CLASS////////////
 }
